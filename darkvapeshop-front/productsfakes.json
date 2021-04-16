@@ -1,0 +1,154 @@
+[
+    {
+      "id": 1,
+      "name": "Completo maluco",
+      "content": "albums fodas",
+      "meta_description": "fodas albums",
+      "meta_title": "completo maluco",
+      "price": 12.99,
+      "slug": "completo-maluco",
+      "published_at": "2021-04-15T13:38:32.780Z",
+      "created_at": "2021-04-15T13:38:13.070Z",
+      "updated_at": "2021-04-15T13:38:32.803Z",
+      "image": {
+        "id": 1,
+        "name": "wallpaperflare.com_wallpaper.jpg",
+        "alternativeText": "",
+        "caption": "",
+        "width": 1920,
+        "height": 1080,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_wallpaperflare.com_wallpaper.jpg",
+            "hash": "thumbnail_wallpaperflare_com_wallpaper_7c21cb2003",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 245,
+            "height": 138,
+            "size": 4.35,
+            "path": null,
+            "url": "/uploads/thumbnail_wallpaperflare_com_wallpaper_7c21cb2003.jpg"
+          },
+          "large": {
+            "name": "large_wallpaperflare.com_wallpaper.jpg",
+            "hash": "large_wallpaperflare_com_wallpaper_7c21cb2003",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 1000,
+            "height": 563,
+            "size": 36.29,
+            "path": null,
+            "url": "/uploads/large_wallpaperflare_com_wallpaper_7c21cb2003.jpg"
+          },
+          "medium": {
+            "name": "medium_wallpaperflare.com_wallpaper.jpg",
+            "hash": "medium_wallpaperflare_com_wallpaper_7c21cb2003",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 750,
+            "height": 422,
+            "size": 23.29,
+            "path": null,
+            "url": "/uploads/medium_wallpaperflare_com_wallpaper_7c21cb2003.jpg"
+          },
+          "small": {
+            "name": "small_wallpaperflare.com_wallpaper.jpg",
+            "hash": "small_wallpaperflare_com_wallpaper_7c21cb2003",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 500,
+            "height": 281,
+            "size": 12.93,
+            "path": null,
+            "url": "/uploads/small_wallpaperflare_com_wallpaper_7c21cb2003.jpg"
+          }
+        },
+        "hash": "wallpaperflare_com_wallpaper_7c21cb2003",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 88.6,
+        "url": "/uploads/wallpaperflare_com_wallpaper_7c21cb2003.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "created_at": "2021-04-15T13:37:18.353Z",
+        "updated_at": "2021-04-15T13:37:18.366Z"
+      }
+    },
+    {
+      "id": 2,
+      "name": "os guri jojo",
+      "content": "jojo eh mto bom kkkkk",
+      "meta_description": "eh os guri jojo",
+      "meta_title": "jojo eh mto bom kkkkk titulo",
+      "price": 15.99,
+      "slug": "os-guri-jojo",
+      "published_at": "2021-04-15T13:39:43.320Z",
+      "created_at": "2021-04-15T13:39:35.879Z",
+      "updated_at": "2021-04-15T13:39:43.339Z",
+      "image": {
+        "id": 2,
+        "name": "a98a1161-483a-47fa-9c3a-c354aaf77c4b.jpg",
+        "alternativeText": "",
+        "caption": "",
+        "width": 960,
+        "height": 1280,
+        "formats": {
+          "thumbnail": {
+            "name": "thumbnail_a98a1161-483a-47fa-9c3a-c354aaf77c4b.jpg",
+            "hash": "thumbnail_a98a1161_483a_47fa_9c3a_c354aaf77c4b_26ff2c5f30",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 117,
+            "height": 156,
+            "size": 5.1,
+            "path": null,
+            "url": "/uploads/thumbnail_a98a1161_483a_47fa_9c3a_c354aaf77c4b_26ff2c5f30.jpg"
+          },
+          "large": {
+            "name": "large_a98a1161-483a-47fa-9c3a-c354aaf77c4b.jpg",
+            "hash": "large_a98a1161_483a_47fa_9c3a_c354aaf77c4b_26ff2c5f30",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 750,
+            "height": 1000,
+            "size": 92.22,
+            "path": null,
+            "url": "/uploads/large_a98a1161_483a_47fa_9c3a_c354aaf77c4b_26ff2c5f30.jpg"
+          },
+          "medium": {
+            "name": "medium_a98a1161-483a-47fa-9c3a-c354aaf77c4b.jpg",
+            "hash": "medium_a98a1161_483a_47fa_9c3a_c354aaf77c4b_26ff2c5f30",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 563,
+            "height": 750,
+            "size": 59.19,
+            "path": null,
+            "url": "/uploads/medium_a98a1161_483a_47fa_9c3a_c354aaf77c4b_26ff2c5f30.jpg"
+          },
+          "small": {
+            "name": "small_a98a1161-483a-47fa-9c3a-c354aaf77c4b.jpg",
+            "hash": "small_a98a1161_483a_47fa_9c3a_c354aaf77c4b_26ff2c5f30",
+            "ext": ".jpg",
+            "mime": "image/jpeg",
+            "width": 375,
+            "height": 500,
+            "size": 30.91,
+            "path": null,
+            "url": "/uploads/small_a98a1161_483a_47fa_9c3a_c354aaf77c4b_26ff2c5f30.jpg"
+          }
+        },
+        "hash": "a98a1161_483a_47fa_9c3a_c354aaf77c4b_26ff2c5f30",
+        "ext": ".jpg",
+        "mime": "image/jpeg",
+        "size": 93.8,
+        "url": "/uploads/a98a1161_483a_47fa_9c3a_c354aaf77c4b_26ff2c5f30.jpg",
+        "previewUrl": null,
+        "provider": "local",
+        "provider_metadata": null,
+        "created_at": "2021-04-15T13:39:01.314Z",
+        "updated_at": "2021-04-15T13:39:01.328Z"
+      }
+    }
+  ]
